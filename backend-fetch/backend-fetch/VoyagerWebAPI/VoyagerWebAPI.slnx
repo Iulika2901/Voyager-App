@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TestProject1/TestProject1.csproj" />
+  <Project Path="VoyagerWebAPI.Api/VoyagerWebAPI.Api.csproj" />
+  <Project Path="VoyagerWebAPI.Application/VoyagerWebAPI.Application.csproj" />
+  <Project Path="VoyagerWebAPI.Domain/VoyagerWebAPI.Domain.csproj" />
+  <Project Path="VoyagerWebAPI.Infrastructure/VoyagerWebAPI.Infrastructure.csproj" />
+</Solution>
